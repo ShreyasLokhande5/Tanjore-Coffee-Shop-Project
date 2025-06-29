@@ -21,4 +21,4 @@ CSS3 – for styling, layout, and responsiveness
 
 JavaScript – for interactivity and DOM manipulation
 
-(Optional enhancement: animations via CSS keyframes or JS)
+
